@@ -35,7 +35,7 @@ Following results achieved in this project using different modeling approaches.
 | Passive Aggressive Classifier TFID (Bi-gram) | 95.9%  | 95.53% | 96.73% | 96.12% |
 | Logistic Regression TFID (Bi-gram) | 94.6%  | 94.63%% | 94.95% | 94.78% | 
 | LSTM with GLOVE embedding | 94.69%  | 95.00%% | 95.00% | 95.00% |
-| BERT (1 epoch) | **98.43%**  | **98.00% | **98.00%** | **98.00%** |
+| BERT (1 epoch) | **98.43%**  | **98.00%** | **98.00%** | **98.00%** |
 
 
 
@@ -58,6 +58,7 @@ I also reccommend to install Anaconda, a pre-packaged Python distribution that c
 In a terminal or command window, navigate to the top-level project directory fake-news-classifier/ (that contains this README) and run one of the following commands:
 
 ```ipython notebook Fake_news_preprocessing.ipynb```
+
 or
 
 ```ipython notebook fake news Analysis.ipynb```
