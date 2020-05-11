@@ -71,7 +71,7 @@ Following results achieved in this project using different modeling approaches.
 
 
 | Model  | Accuracy | Precision | Recall | F1- Score |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | Multinomial Naive Baye's TFIDF (Bi-gram) | 94.10% | 91.95%% | 97.17% | 94.48% |
 | Passive Aggressive Classifier TFID (Bi-gram) | 95.9%  | 95.53% | 96.73% | 96.12% |
 | Logistic Regression TFID (Bi-gram) | 94.6%  | 94.63%% | 94.95% | 94.78% | 
