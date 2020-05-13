@@ -24,6 +24,12 @@ The dataset consists of two CSV files. The first file named ```True.csv``` conta
 - **type (REAL or FAKE)**
 - **the date the article was published on***
 
+## Word Cloud of dataset
+
+In wordcloud most frequent occuring words in the corpus to be shown. The size of words in the wordcloud is based on their frequency in the corpus.The more the word appears, the largers the word font will be. As we can see from the wordclouds most frequent words in fake news are Video,Obama, Hillary, Trump and Republican whereas Real news comprise Trump, White House, North Korea, China etc.
+
+![Screenshot Predict](https://i.ibb.co/NpMZzcq/wc.png)
+
 
 ## Results Achieved
 Following results achieved in this project using different modeling approaches.
